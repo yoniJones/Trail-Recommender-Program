@@ -16,7 +16,7 @@ The focus of this application was to build a functional, scalable, back-end syst
   <img src="/nbproject/TrailFinderPics/main.PNG" width="800" title="hover text">
 </p>
 
-* Results are presented to the the user with highest relevence on top.
+* Results are presented to the the user from highest to lowest relevence.
 * The user selects their optimal trail.
  <p align="center">
   <img src="/nbproject/TrailFinderPics/result.PNG" width="800" title="hover text">
